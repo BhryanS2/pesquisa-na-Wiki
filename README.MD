@@ -16,8 +16,7 @@ Para configutar ele crie um `watson-nlu.json`, contendo
 `}`
 ## Dependencias
     Agora é isntalar as dependencias e ser feliz
-São poucas dependencias basta usar `npm i algorithmia readline-sync sbd watson-developer-cloud`, use o `yarn add ` caso não você não use o npm
-agora digite no terminal `node index.js` e pesquise :)
+São poucas dependencias basta usar `npm i algorithmia readline-sync sbd watson-developer-cloud`, apís isso digite no terminal `node index.js` e pesquise seu conteúdo
 
 
 
