@@ -15,7 +15,7 @@ Para configutar ele crie um `watson-nlu.json`, contendo
   "iam_serviceid_crn": 
 `}`
 ## Dependencias
-    Agora é isntalar as dependencias e ser feliz
+    Agora é instalar as dependencias e ser feliz
 São poucas dependencias basta usar `npm i algorithmia readline-sync sbd watson-developer-cloud`, apís isso digite no terminal `node index.js` e pesquise seu conteúdo
 
 
